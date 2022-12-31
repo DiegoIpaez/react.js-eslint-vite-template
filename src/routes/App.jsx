@@ -3,7 +3,7 @@ import { internalPaths } from '../utils/constants';
 import Navbar from '../components/Navbar/Navbar';
 import Footer from '../components/Footer/Footer';
 import Home from '../pages/Home/Home';
-import Error404 from '../pages/Error404/Error404'
+import Error404 from '../pages/Error404/Error404';
 
 function App() {
   return (
